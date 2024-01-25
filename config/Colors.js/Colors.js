@@ -1,0 +1,30 @@
+const Colors = {
+    Yellow: '#ffa726',
+    Black: '#000000',
+    SmokyWhite: '#f5f5f5',
+    Silver: '#808080',
+    lightBlack: '#444444',
+    white: '#fff',
+    black: '#000',
+    grey: '#BABBC3',
+    red: 'red',
+    blueshade: '#ECEFF1',
+    mshadeblack: '#444444',
+    lightorange: '#FFB74D',
+    DEFAULT_GREY: '#C2C2CB',
+    DEFAULT_WHITE: '#FFFFFF',
+    GREY: '#C5C5C5',
+    LightGrey: "#777777",
+    Grayscale: "#EEEEEE",
+    DarkBlack: "#121212",
+    Gray62: "#9E9E9E",
+    Gainsboro: "#dddddd",
+    ShadowColor: 'rgba(0,0,0,0.5)',
+    botColor: '#FBB03B',
+    Charcoal: '#898989',
+    DutchPink: '#F5F2EC',
+    cyanBlue: '#405F7A',
+    bgBotColor: '#F5F5F5'
+
+};
+export default Colors;
